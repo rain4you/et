@@ -12,7 +12,7 @@
 	@ Nurutomo
 	@ Rashid
 	@ ZeeoneOfc
-    @ Rain Betmut🍭
+        @ Rain Betmut🍭
 	@ Penyedia Module
 	@ And All Support
 **/
@@ -864,7 +864,7 @@ if (!m.isGroup) return reply(lang.groupOnly())
           },
 {
             "quickReplyButton": {
-              "displayText": "List Command",
+              "displayText": "",
 "id": 'command'
             }
           }
